@@ -1,0 +1,6 @@
+#ifndef FORTUNEFUNCTIONS_H
+#define FORTUNEFUNCTIONS_H
+
+
+
+#endif
